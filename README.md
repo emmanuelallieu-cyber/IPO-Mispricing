@@ -1,0 +1,1 @@
+In decoding US IPO Mispricing,a four pillar machine Learning Framework Integrating Explaianble Ai, we benchmark a conventional linear baseline model against advanced non-linear machine learning ensembles, including Random Forest, XGBoost, and LightGBM.
